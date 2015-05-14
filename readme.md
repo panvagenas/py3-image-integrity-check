@@ -15,8 +15,8 @@ Options
   
    `-d DIR, --dir DIR`                      Dir path to check. Default is current directory.
    
-   `-e EXTENSION, --extension EXTENSION`    Files extension. The default behaviour is to all supported
-                                            filetypes. If this options is set then only files with the 
+   `-e EXTENSION, --extension EXTENSION`    Files extension. The default behaviour is to check all supported
+                                            filetypes. If this option is set then only files with the 
                                             specified extension will be checked
    
    `-o OUTPUT, --output OUTPUT`             Output file path. If set prints report to the specified file.
